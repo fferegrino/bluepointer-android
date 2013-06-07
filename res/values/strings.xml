@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hola mundo, soy BluePointer</string>
+    <string name="app_name">BluePointer</string>
+    <string name="btn_find">Encontrar un dispositivo</string>
+    <string name="bt_not_enabled_leaving">Esta aplicación requiere bluetooth</string>
+    <string name="title_paired_devices">Dispositivos vinculados</string>
+    <string name="title_other_devices">Otros dispositivos disponibles</string>
+    <string name="button_scan">Buscar dispositivos</string>
+    <string name="none_paired">No se vincularon dispositivos</string>
+    <string name="scanning">Buscando dispositivos&#8230;</string>
+    <string name="none_found">No se encontraron dispositivos</string>
+    <string name="select_device">Select a device to connect</string>
+    <string name="connect">Conectar un dispositivo</string>
+    <string name="discoverable">Hacer visible</string>
+    <string name="title_connected_to">Conectado: </string>
+    <string name="title_connecting">Conectando&#8230;;</string>
+    <string name="title_not_connected">No conectado</string>
+    <string name="title_activity_device_list">Encontrar dispositivos</string>
+    <string name="action_settings">Configuración</string>
+    <string name="hello_world">Hola mundo, soy BluePointer</string>
+    <string name="buscarDispositivos">Buscar dispositivo</string>
+    <string name="warningNoConnection">No estás conectado a ningún dispositivo</string>
+    <string name="sendMessage">Enviar mensaje</string>
+
+</resources>
